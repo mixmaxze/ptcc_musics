@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 BERTimbau_base_GoEmotions_portuguese
 musicas_artistas.csv
+*.csv
