@@ -1,8 +1,5 @@
 .ipynb_checkpoints
 BERTimbau_base_GoEmotions_portuguese
-*.csv
-artefatos/models_results.pkl
-artefatos/resultados.json
 artefatos/BERTimbau_large_GoEmotions_portuguese/config.json
 artefatos/BERTimbau_large_GoEmotions_portuguese/vocab.txt
 artefatos/BERTimbau_large_GoEmotions_portuguese/tokenizer_config.json
