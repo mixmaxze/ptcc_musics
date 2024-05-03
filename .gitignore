@@ -6,3 +6,4 @@ artefatos/BERTimbau_large_GoEmotions_portuguese/tokenizer_config.json
 artefatos/BERTimbau_large_GoEmotions_portuguese/special_tokens_map.json
 artefatos/BERTimbau_large_GoEmotions_portuguese/pytorch_model.bin
 *.pkl
+/venv
